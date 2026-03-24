@@ -98,10 +98,6 @@ Purchase frequency converted into numeric days:
 
 Processed data is exported into SQL databases:
 
-### PostgreSQL
-
-Used SQLAlchemy engine for PostgreSQL connection.
-
 ### MySQL
 
 Used SQLAlchemy with pymysql for MySQL export.
