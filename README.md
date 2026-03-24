@@ -128,44 +128,9 @@ Customer_Shopping_Behavior_Analysis/
 
 ---
 
-## How to Run
 
-### Install Required Libraries
 
-```bash
-pip install pandas sqlalchemy pymysql psycopg2
-```
 
-### Open Notebook
 
-```bash
-jupyter notebook
-```
 
-### Run
 
-Execute all cells in:
-
-```bash
-Customer_Shopping_Behavior_Analysis.ipynb
-```
-
----
-
-## Future Improvements
-
-* Add Power BI dashboard
-* Build predictive customer segmentation
-* Deploy analysis using Streamlit
-
----
-
-## Author
-
-**Siddharth Mangalgi**
-
----
-
-## GitHub Post Description
-
-Customer shopping behavior analysis project using Python, data preprocessing, feature engineering, SQL integration, and business insights generation for retail analytics.
